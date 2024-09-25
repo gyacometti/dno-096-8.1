@@ -35,9 +35,9 @@
         "github": "https://github.com/gyacometti"
     },
     {
-        "nombre": "Teresita Ilabaca",
-        "fecha": "2001-08-10",
-        "signo": "leo",
+        "nombre": "Feria Aguita de Hierba",
+        "fecha": "2023",
+        "signo": "Gráfico",
         "foto": "https://apod.nasa.gov/apod/image/0108/perseids97_rickjoe.jpg",
         "github": "https://github.com/gyacometti"
     },
@@ -54,6 +54,14 @@
         "signo": "Industrial",
         "foto": "https://github.com/user-attachments/assets/970e9506-8b85-4e19-8a04-00de1ff1daff",
         "github": "https://github.com/gyacometti"
+    },
+     {
+        "nombre": "Rediseño Ficha Fib",
+        "fecha": "2023",
+        "signo": "Servicio",
+        "foto": "https://github.com/user-attachments/assets/970e9506-8b85-4e19-8a04-00de1ff1daff",
+        "github": "https://github.com/gyacometti"
     }
+    
   ]
     
