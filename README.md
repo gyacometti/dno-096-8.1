@@ -8,6 +8,7 @@
 <img width="459" alt="Captura de pantalla 2024-09-25 a la(s) 12 11 45" src="https://github.com/user-attachments/assets/1c76008d-7156-43d6-8505-9f934cd22c52">
 <img width="459" alt="Captura de pantalla 2024-09-25 a la(s) 12 24 56" src="https://github.com/user-attachments/assets/ed7f4d5f-37ff-404b-86c6-748dded08220">
 <img width="459" alt="Captura de pantalla 2024-09-25 a la(s) 12 24 15" src="https://github.com/user-attachments/assets/be201225-e8ba-47fc-a64a-78cde7e137ed">
+![IMG_9916](https://github.com/user-attachments/assets/c953a745-aad8-4a73-8031-a7c342d7da48)
 
 
 
